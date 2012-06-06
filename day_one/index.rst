@@ -6,9 +6,11 @@ Goal #1: set up Python
 
 This section has instructions for installing Python and running Python from a command prompt.
 
-* Windows
-* OS X
-* Linux
+.. toctree::
+   :maxdepth: 2
+
+   goal_1/windows
+   
 
 Goal #2: prepare a text editor
 ------------------------------
