@@ -19,9 +19,10 @@ Goal #2: prepare a text editor
 In addition to being able to run Python, we are going to install a good text editor for writing and saving Python code during the workshop.
 If you would like to use a different text editor from the recommendation for your operating system, please let a staff member know.
 
-* Windows
-* OS X
-* Linux
+.. toctree::
+   :maxdepth: 2
+
+   goal_2/windows
 
 Goal #3: practice starting and exiting Python
 ---------------------------------------------
