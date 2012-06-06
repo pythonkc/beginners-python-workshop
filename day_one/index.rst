@@ -11,6 +11,7 @@ This section has instructions for installing Python and running Python from a co
 
    goal_1/windows
    goal_1/osx
+   goal_1/linux.rst
 
 Goal #2: prepare a text editor
 ------------------------------
