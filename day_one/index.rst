@@ -23,6 +23,7 @@ If you would like to use a different text editor from the recommendation for you
    :maxdepth: 2
 
    goal_2/windows
+   goal_2/osx
 
 Goal #3: practice starting and exiting Python
 ---------------------------------------------
