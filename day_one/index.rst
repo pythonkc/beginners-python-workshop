@@ -24,6 +24,7 @@ If you would like to use a different text editor from the recommendation for you
 
    goal_2/windows
    goal_2/osx
+   goal_2/linux
 
 Goal #3: practice starting and exiting Python
 ---------------------------------------------
