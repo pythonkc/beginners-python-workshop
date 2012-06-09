@@ -36,6 +36,7 @@ We'll do a lot of learning and practicing at a Python prompt (this is "interacti
 
    goal_3/windows
    goal_3/osx
+   goal_3/linux
 
 Goal #4: practice navigating the computer from a command prompt
 ---------------------------------------------------------------
