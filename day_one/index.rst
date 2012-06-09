@@ -31,9 +31,11 @@ Goal #3: practice starting and exiting Python
 
 We'll do a lot of learning and practicing at a Python prompt (this is "interactive" because you are typing the code and hitting enter to run it yourself, instead of running it from a file). So let's practice starting and exiting Python.
 
-* Windows
-* OS X
-* Linux
+.. toctree::
+   :maxdepth: 2
+
+   goal_3/windows
+   goal_3/osx
 
 Goal #4: practice navigating the computer from a command prompt
 ---------------------------------------------------------------
