@@ -13,9 +13,9 @@ There are two commands that we'll be using at a command prompt to navigate the f
 * dir
 * cd
 
-`dir` lists the contents of a directory.
+``dir`` lists the contents of a directory.
 
-`cd` moves you into a new directory (it stands for "change directory").
+``cd`` moves you into a new directory (it stands for "change directory").
 
 Let's practice using these commands.
 
@@ -25,8 +25,8 @@ Open a command prompt:
 * On Windows Vista or Windows 7: click on the Start menu (the Windows logo in the lower left of the screen), type cmd into the Search field directly above the Start menu button, and click on "cmd" in the search results above the Search field.
 * On Windows XP: click on the Start menu (the Windows logo in the lower left of the screen), click on "Run...", type cmd into the text box, and hit enter.
 
-Practice using dir and cd
--------------------------
+Practice using ``dir`` and ``cd``
+---------------------------------
 
 Type each of these commands and hit enter::
 
@@ -80,4 +80,4 @@ Answer these questions. Experiment at the command line if you need to! If you ar
 Success!
 --------
 
-You've practiced using `dir` and `cd` to navigate your computer's filesystem from the command prompt.
+You've practiced using ``dir`` and ``cd`` to navigate your computer's filesystem from the command prompt.
