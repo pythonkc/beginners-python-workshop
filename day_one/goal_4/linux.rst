@@ -1,5 +1,5 @@
-Mac OS X
-========
+Linux
+=====
 
 Terminal Navigation
 -------------------
@@ -25,7 +25,7 @@ Let's practice using these commands.
 Open a command prompt
 ---------------------
 
-You can find the Terminal application through Spotlight, or navigate to Applications/Utilities/Terminal.
+You can find the Terminal application at Applications/Accessories/Terminal, or it may already be on your menu bar.
 
 Practice using ``ls``, ``pwd``, and ``cd``
 ------------------------------------------
@@ -50,21 +50,21 @@ This will change you into the / root directory::
 
 This lists the contents of the / root directory::
 
-    cd Users
+    cd home
 
-This will change you into the Users subdirectory of the / root directory::
+This will change you into the home subdirectory of the / root directory::
 
     ls
 
-You should see a list of all the files in /Users, including the directory for your username -- your home directory::
+You should see a list of all the files in /home, including the directory for your username -- your home directory::
 
     pwd
 
-This displays the full directory path to your current directory, /Users::
+This displays the full directory path to your current directory, /home::
 
     cd ..
 
-`..` means "parent directory", so this command moved you up to the parent directory. You were in /Users, so now you are in /, the root directory::
+``..`` means "parent directory", so this command moved you up to the parent directory. You were in /home, so now you are in /, the root directory::
 
     ls
 
@@ -73,17 +73,18 @@ This lists the contents of the root directory, confirming where you are.
 Tips
 ----
 
-* You can use Tab to auto-complete directory and file names. So from inside the root directory /, if you type cd Us and hit Tab, the command prompt will auto-complete the directory name, and you can then hit enter to change into the /Users directory.
+* You can use Tab to auto-complete directory and file names. So from inside the root directory /, if you type cd ho and hit Tab, the command prompt will auto-complete the directory name, and you can then hit enter to change into the /home directory.
 * The command prompt maintains a command history. You can use the up arrow to cycle through old commands.
 
 Check your understanding
 ------------------------
 
-* Answer these questions. Experiment at the command line if you need to! If you aren't sure about an answer, ask a helper.
+Answer these questions. Experiment at the command line if you need to! If you aren't sure about an answer, ask a helper.
+
 * What directory are you in after starting a new command line prompt?
 * After starting a new command line prompt, how would you get to the root directory?
 * How do you check what files and directories are in your current working directory?
-* If you are in directory /Users, and you want to get to /Users/jesstess/projects, how would you do that?
+* If you are in directory /home, and you want to get to /home/jesstess/projects, how would you do that?
 * What are 2 ways to avoid typing out a full navigation command? (hint: one requires that you've run the command before)
 * What is the difference between a command prompt and a Python prompt?
 
