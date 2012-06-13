@@ -43,9 +43,10 @@ Goal #4: practice navigating the computer from a command prompt
 
 We will be running files containing Python code (Python "scripts") from the command prompt. You'll need to be able to navigate to those scripts using the command prompt so you can run them. In this section, we'll practice using these navigation commands.
 
-* Windows
-* OS X
-* Linux
+.. toctree::
+   :maxdepth: 2
+
+   goal_4/windows
 
 Goal #5: practice running Python code from a file
 -------------------------------------------------
