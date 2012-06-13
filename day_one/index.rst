@@ -47,6 +47,7 @@ We will be running files containing Python code (Python "scripts") from the comm
    :maxdepth: 2
 
    goal_4/windows
+   goal_4/osx
 
 Goal #5: practice running Python code from a file
 -------------------------------------------------
