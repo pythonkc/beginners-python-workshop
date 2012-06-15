@@ -59,6 +59,7 @@ Interactive Python programming at a Python prompt is great for short pieces of c
    :maxdepth: 2
 
    goal_5/windows
+   goal_5/osx
 
 Goal #6: get dependencies installed for the Saturday projects
 -------------------------------------------------------------
