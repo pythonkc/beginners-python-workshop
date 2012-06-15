@@ -55,9 +55,10 @@ Goal #5: practice running Python code from a file
 
 Interactive Python programming at a Python prompt is great for short pieces of code and for testing ideas. For longer code, it can be easier to save the code in a file, and execute the contents of that file (aka a Python script). In this section, we'll practice running Python scripts.
 
-* Windows
-* OS X
-* Linux
+.. toctree::
+   :maxdepth: 2
+
+   goal_5/windows
 
 Goal #6: get dependencies installed for the Saturday projects
 -------------------------------------------------------------
