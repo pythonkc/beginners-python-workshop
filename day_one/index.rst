@@ -70,6 +70,7 @@ Goal #6: get dependencies installed for the Saturday projects
 
    goal_6/windows
    goal_6/osx
+   goal_6/linux
 
 Goal #7: start learning Python!
 -------------------------------
