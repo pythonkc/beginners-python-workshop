@@ -91,5 +91,35 @@ You don't have to create a CodingBat account to do the exercises, but if you do 
 Goal #9: Checkoff
 -----------------
 
+Tell a staff member that you are ready to be checked off. Together you will go through the following check-off steps:
+
+* Start a command prompt, and from that command prompt start Python. Then quit Python.
+* Create a new Python file (with a .py extension). In that file, type::
+
+   print "Hello World"
+
+and save the file. From a command prompt, navigate to and execute that Python script.
+
+* Open your text editor, and press "Tab". Use the left arrow key to show the instructor that you are using spaces to indent, not tabs.
+* To test the ColorWall installation: navigate to the ColorWall directory and run run.py::
+
+   python run.py -a
+
+* To test the Wordplay installation: navigate to the Wordplay directory and run words1.py::
+
+   python words1.py
+
+* To test the Twitter installlation, navigate to the Twitter directory and run twitter_api.py::
+
+   python twitter_api.py --search=python
+
+* Walk through the CodingBat problem that you had the most difficulty with.
+
+If you have any other questions about the tutorial, project setup, or CodingBat questions, now is a great time to ask!
+
 Congratulations!
 ----------------
+
+You are done with the Friday portion of this Workshop. We'll see you at 10am tomorrow! Please bring the laptop you used tonight.
+
+If you have any questions, comments, or feedback on tonight's material, don't hesitate to let a staff member know.
