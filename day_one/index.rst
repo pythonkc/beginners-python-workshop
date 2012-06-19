@@ -65,9 +65,10 @@ Interactive Python programming at a Python prompt is great for short pieces of c
 Goal #6: get dependencies installed for the Saturday projects
 -------------------------------------------------------------
 
-* Windows
-* OS X
-* Linux
+.. toctree::
+   :maxdepth: 2
+
+   goal_6/windows
 
 Goal #7: start learning Python!
 -------------------------------
