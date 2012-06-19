@@ -69,6 +69,7 @@ Goal #6: get dependencies installed for the Saturday projects
    :maxdepth: 2
 
    goal_6/windows
+   goal_6/osx
 
 Goal #7: start learning Python!
 -------------------------------
