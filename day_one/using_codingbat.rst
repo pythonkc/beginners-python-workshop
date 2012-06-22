@@ -48,4 +48,6 @@ What CodingBat is doing is the same as when you write a function in your text ed
 
 Perfect!
 
-Now that you are a CodingBat master:
+Now that you are a CodingBat master, let's get started.
+
+http://codingbat.com/home/bostonpythonworkshop@gmail.com/Friday
