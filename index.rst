@@ -29,4 +29,12 @@ Workshop Outline
 
    day_one/index.rst
 
+Social
+------
+
+Here is our twitter account and hashtag for the workshop.
+
+* @pythonkc 
+* #pykcworkshop
+
 
